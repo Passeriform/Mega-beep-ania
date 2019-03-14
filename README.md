@@ -1,7 +1,7 @@
 # Mega(beep)ania
 Megalovania using system alert beeps
 
-*Sans comes alive in C. You're gonna have a bad time.*
+*You're gonna have a bad time in C.*
 
 ## Compile Instructions:
 Download the binary or compile source using gcc
